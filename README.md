@@ -1,4 +1,5 @@
-Tecnologias do Projeto
+## Tecnologias do Projeto
+
 Backend:
 Node.js, TypeScript, Express, Prisma ORM, PostgreSQL
 
