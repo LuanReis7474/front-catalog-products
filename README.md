@@ -46,3 +46,5 @@ Base da aplicação com padrão MVC, mas com arquitetura em camadas para separar
 5. Rodar o Projeto
    npm run dev
 6. Acesse http://localhost:5173 no seu navegador (ou na porta que foi executado)
+
+   🔗 [Visualizar Documentação ([Swagger](https://app.swaggerhub.com/apis-docs/LuanReisDeCarvalho/CatalogProductsAPI/1.0.0?view=uiDocs#/Orders))].
